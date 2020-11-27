@@ -1,4 +1,4 @@
-# DE1-SOC.smart_fan
+# DE1-SOC-smart_fan
 
 20년 2학기 한국항공대학교 전자HW설계 Term project 코드입니다.
 
